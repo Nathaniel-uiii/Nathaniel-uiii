@@ -1,16 +1,49 @@
-## Hi there 👋
+# ✨ Nathaniel
 
-<!--
-**Nathaniel-uiii/Nathaniel-uiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer • Designer • Problem Solver**  
+Crafting clean code & beautiful digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+- Modern web development & UI engineering  
+- Automation + workflow optimization  
+- Creative coding & design systems
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+JavaScript • TypeScript • Python  
+
+**Frontend:**  
+React • Next.js • TailwindCSS  
+
+**Backend:**  
+Node.js • Express  
+
+**Tools:**  
+Git • VS Code • Figma
+
+---
+
+## 📌 Featured Projects
+- *(Coming soon — add your best repositories here!)*
+
+---
+
+## 🎨 Aesthetic Vibes
+I love clean design, intuitive interfaces, and building software that feels good to use.  
+Always experimenting, always learning.
+
+---
+
+## 📫 Connect With Me
+<a href="https://github.com/Nathaniel-uiii">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🖤 Thanks for stopping by!
+*Here’s to building cool things.*
