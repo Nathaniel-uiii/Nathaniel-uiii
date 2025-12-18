@@ -92,7 +92,7 @@ These are the bread types the model can recognize.
       <b>Pandesal</b>
     </td>
     <td align="center">
-      <img src="My_Classes/Loaf%20Bread.jpg" alt="Loaf Bread" width="120" /><br/>
+      <img src="Bread pictures/Loafbread.jpg" alt="Loaf Bread" width="120" /><br/>
       <b>Loaf Bread</b>
     </td>
   </tr>
