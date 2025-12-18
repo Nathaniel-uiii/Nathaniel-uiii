@@ -76,6 +76,7 @@ The **Analytics** screen shows how often each bread type has been detected and o
 
 ---
 
+
 ## 🥐 Bread Classes
 
 Bread images are stored in [`My_Classes`](https://github.com/Nathaniel-uiii/Nathaniel-uiii/tree/main/My_Classes).  
@@ -84,49 +85,56 @@ These are the bread types the model can recognize.
 <table>
   <tr>
     <td align="center">
-      <img src="Bread pictures/Pan de coco.jpg" alt="Pan de coco" width="120" /><br/>
-      <b>Pan De Coco</b>
-    </td>
-  <tr>
-    <td align="center">
-      <img src="My_Classes/Binangkal_(sesame_seed_doughnuts).jpg" alt="Binangkal" width="120" /><br/>
-      <b>Binangkal</b>
+      <img src="My_Classes/Pan%20De%20Coco.jpg" alt="Pan de Coco" width="130" /><br/>
+      <b>Pan de Coco</b><br/>
+      Soft bun filled with sweet coconut filling.
     </td>
     <td align="center">
-      <img src="Bread pictures/pandesal.jpg" alt="Pandesal" width="120" /><br/>
-      <b>Pandesal</b>
+      <img src="My_Classes/Binangkal_(sesame_seed_doughnuts).jpg" alt="Binangkal" width="130" /><br/>
+      <b>Binangkal</b><br/>
+      Deep-fried dough balls coated in toasted sesame seeds.
     </td>
     <td align="center">
-      <img src="Bread pictures/Loafbread.jpg" alt="Loaf Bread" width="120" /><br/>
-      <b>Loaf Bread</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="My_Classes/Garlic.jpg" alt="Garlic Bread" width="120" /><br/>
-      <b>Garlic Bread</b>
+      <img src="My_Classes/Pandesal.jpg" alt="Pandesal" width="130" /><br/>
+      <b>Pandesal</b><br/>
+      Classic Filipino breakfast roll with a light, soft crumb.
     </td>
     <td align="center">
-      <img src="My_Classes/Spanish%20Bread.jpg" alt="Spanish Bread" width="120" /><br/>
-      <b>Spanish Bread</b>
+      <img src="My_Classes/Loaf%20Bread.jpg" alt="Loaf Bread" width="130" /><br/>
+      <b>Loaf Bread</b><br/>
+      Standard sliced loaf, perfect for sandwiches and toast.
     </td>
     <td align="center">
-      <img src="My_Classes/Star.jpg" alt="Star Bread" width="120" /><br/>
-      <b>Star Bread</b>
+      <img src="My_Classes/Pan%20de%20leche.jpg" alt="Pan de Leche" width="130" /><br/>
+      <b>Pan de Leche</b><br/>
+      Milky, slightly sweet rolls with a soft, fluffy texture.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="My_Classes/ensymada.jpg" alt="Ensaymada" width="120" /><br/>
-      <b>Ensaymada</b>
+      <img src="My_Classes/Garlic.jpg" alt="Garlic Bread" width="130" /><br/>
+      <b>Garlic Bread</b><br/>
+      Bread flavored with garlic and butter, often toasted.
     </td>
     <td align="center">
-      <img src="My_Classes/Toasted%20Soipao.jpg" alt="Toasted Siopao" width="120" /><br/>
-      <b>Toasted Siopao</b>
+      <img src="My_Classes/Spanish%20Bread.jpg" alt="Spanish Bread" width="130" /><br/>
+      <b>Spanish Bread</b><br/>
+      Rolled bread with a sweet, buttery filling.
     </td>
     <td align="center">
-      <img src="Bread pictures/Pan de leche.jpg" alt="Pan de leche" width="120" /><br/>
-      <b>Pan de leche</b>
+      <img src="My_Classes/Star.jpg" alt="Star Bread" width="130" /><br/>
+      <b>Star Bread</b><br/>
+      Star-shaped soft bread, lightly sweet and fluffy.
+    </td>
+    <td align="center">
+      <img src="My_Classes/ensymada.jpg" alt="Ensaymada" width="130" /><br/>
+      <b>Ensaymada</b><br/>
+      Soft, buttery pastry topped with cheese and sugar.
+    </td>
+    <td align="center">
+      <img src="My_Classes/Toasted%20Soipao.jpg" alt="Toasted Siopao" width="130" /><br/>
+      <b>Toasted Siopao</b><br/>
+      Baked version of siopao with a savory meat filling.
     </td>
   </tr>
 </table>
