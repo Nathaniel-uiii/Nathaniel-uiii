@@ -138,7 +138,6 @@ These are the bread types the model can recognize.
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
