@@ -53,8 +53,6 @@ me.say_hi()- 🧠 **Interests**: Mobile development, machine learning, and clean
 A Flutter mobile application that uses **TensorFlow Lite** to classify different types of bread from camera images.  
 Screenshots are stored in [`App_Screenshot`](https://github.com/Nathaniel-uiii/Nathaniel-uiii/tree/main/App_Screenshot).
 
-> 🔧 Make sure the image paths below match your actual filenames in `App_Screenshot/`.
-
 ### 🏠 Main Page & 📊 Analytics
 
 | **Main Page** | **Analytics** |
@@ -83,8 +81,6 @@ The **Analytics** screen shows how often each bread type has been detected and o
 Bread images are stored in [`My_Classes`](https://github.com/Nathaniel-uiii/Nathaniel-uiii/tree/main/My_Classes).  
 These are the bread types the model can recognize.
 
-> 🔧 Update the `src` paths to match your exact filenames inside `My_Classes/`.
-
 <table>
   <tr>
     <td align="center">
@@ -96,7 +92,7 @@ These are the bread types the model can recognize.
       <b>Pandesal</b>
     </td>
     <td align="center">
-      <img src="My_Classes/Loaf_Bread.jpg" alt="Loaf Bread" width="120" /><br/>
+      <img src="My_Classes/Loaf%20Bread.jpg" alt="Loaf Bread" width="120" /><br/>
       <b>Loaf Bread</b>
     </td>
   </tr>
@@ -106,7 +102,7 @@ These are the bread types the model can recognize.
       <b>Garlic Bread</b>
     </td>
     <td align="center">
-      <img src="My_Classes/Spanish_Bread.jpg" alt="Spanish Bread" width="120" /><br/>
+      <img src="My_Classes/Spanish%20Bread.jpg" alt="Spanish Bread" width="120" /><br/>
       <b>Spanish Bread</b>
     </td>
     <td align="center">
@@ -116,11 +112,11 @@ These are the bread types the model can recognize.
   </tr>
   <tr>
     <td align="center">
-      <img src="My_Classes/Ensaymada.jpg" alt="Ensaymada" width="120" /><br/>
+      <img src="My_Classes/ensymada.jpg" alt="Ensaymada" width="120" /><br/>
       <b>Ensaymada</b>
     </td>
     <td align="center">
-      <img src="My_Classes/Toasted_Siopao.jpg" alt="Toasted Siopao" width="120" /><br/>
+      <img src="My_Classes/Toasted%20Soipao.jpg" alt="Toasted Siopao" width="120" /><br/>
       <b>Toasted Siopao</b>
     </td>
     <td align="center">
@@ -128,8 +124,6 @@ These are the bread types the model can recognize.
     </td>
   </tr>
 </table>
-
-> If your file names are different (for example `ensymada.jpg` or `Spanish Bread.jpg`), just replace the paths above with the correct ones.
 
 ---
 
