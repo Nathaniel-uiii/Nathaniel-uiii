@@ -84,6 +84,11 @@ These are the bread types the model can recognize.
 <table>
   <tr>
     <td align="center">
+      <img src="Bread pictures/Pan de coco.jpg" alt="Pan de coco" width="120" /><br/>
+      <b>Pan De Coco</b>
+    </td>
+  <tr>
+    <td align="center">
       <img src="My_Classes/Binangkal_(sesame_seed_doughnuts).jpg" alt="Binangkal" width="120" /><br/>
       <b>Binangkal</b>
     </td>
