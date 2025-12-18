@@ -88,7 +88,7 @@ These are the bread types the model can recognize.
       <b>Binangkal</b>
     </td>
     <td align="center">
-      <img src="My_Classes/Pandesal.jpg" alt="Pandesal" width="120" /><br/>
+      <img src="Bread pictures/pandesal.jpg" alt="Pandesal" width="120" /><br/>
       <b>Pandesal</b>
     </td>
     <td align="center">
