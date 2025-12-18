@@ -125,7 +125,8 @@ These are the bread types the model can recognize.
       <b>Toasted Siopao</b>
     </td>
     <td align="center">
-      <!-- Add any extra class here -->
+      <img src="Bread pictures/Pan de leche.jpg" alt="Pan de leche" width="120" /><br/>
+      <b>Pan de leche</b>
     </td>
   </tr>
 </table>
