@@ -95,12 +95,12 @@ These are the bread types the model can recognize.
       Deep-fried dough balls coated in toasted sesame seeds.
     </td>
     <td align="center">
-      <img src="My_Classes/Pandesal.jpg" alt="Pandesal" width="130" /><br/>
+      <img src="Bread pictures/pandesal.jpg" alt="Pandesal" width="130" /><br/>
       <b>Pandesal</b><br/>
       Classic Filipino breakfast roll with a light, soft crumb.
     </td>
     <td align="center">
-      <img src="My_Classes/Loaf%20Bread.jpg" alt="Loaf Bread" width="130" /><br/>
+      <img src="Bread pictures/Loafbread.jpg" alt="Loaf Bread" width="130" /><br/>
       <b>Loaf Bread</b><br/>
       Standard sliced loaf, perfect for sandwiches and toast.
     </td>
