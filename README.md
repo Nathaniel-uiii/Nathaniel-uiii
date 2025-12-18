@@ -57,7 +57,7 @@ Screenshots are stored in [`App_Screenshot`](https://github.com/Nathaniel-uiii/N
 
 | **Main Page** | **Analytics** |
 | ------------- | ------------- |
-| <img src="App_Screenshot/main_page.jfif" alt="Bread Classifier Main Page" width="260" /> | <img src="App_Screenshot/Analytics1.1.jfif" alt="Bread Classifier Analytics Page" width="260" /> |
+| <img src="App_Screenshot/main_page.jfif" alt="Bread Classifier Main Page" width="260" /> | <img src="App_Screenshot/Analytics_Average_Confidence.jfif" alt="Bread Classifier Analytics Page" width="260" /> |
 
 The **Main Page** lets users start a classification by opening the camera, viewing analytics, or checking their history.  
 The **Analytics** screen shows how often each bread type has been detected and overall usage statistics.
@@ -68,7 +68,7 @@ The **Analytics** screen shows how often each bread type has been detected and o
 
 | **Camera** | **Records** | **Result** |
 | ---------- | ----------- | ---------- |
-| <img src="App_Screenshot/camera.jfif" alt="Bread Classifier Camera Page" width="220" /> | <img src="App_Screenshot/records.jfif" alt="Bread Classifier Records Page" width="220" /> | <img src="App_Screenshot/result.jfif" alt="Bread Classifier Result Page" width="220" /> |
+| <img src="App_Screenshot/camera.jfif" alt="Bread Classifier Camera Page" width="220" /> | <img src="App_Screenshot/records.jfif" alt="Bread Classifier Records Page" width="220" /> | <img src="App_Screenshot/Class_Identification_and_percentage.jfif" alt="Bread Classifier Result Page" width="220" /> |
 
 - **Camera**: Capture a bread image or select one from the gallery.  
 - **Records**: Browse your previous classifications with timestamps.  
