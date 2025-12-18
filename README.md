@@ -57,7 +57,7 @@ Screenshots are stored in [`App_Screenshot`](https://github.com/Nathaniel-uiii/N
 
 | **Main Page** | **Analytics** |
 | ------------- | ------------- |
-| <img src="App_Screenshot/main.jfif" alt="Bread Classifier Main Page" width="260" /> | <img src="App_Screenshot/Analytics1.1.jfif" alt="Bread Classifier Analytics Page" width="260" /> |
+| <img src="App_Screenshot/main_page.jfif" alt="Bread Classifier Main Page" width="260" /> | <img src="App_Screenshot/Analytics1.1.jfif" alt="Bread Classifier Analytics Page" width="260" /> |
 
 The **Main Page** lets users start a classification by opening the camera, viewing analytics, or checking their history.  
 The **Analytics** screen shows how often each bread type has been detected and overall usage statistics.
