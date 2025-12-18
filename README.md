@@ -164,5 +164,5 @@ These are the bread types the model can recognize.
 ---
 
 <p align="center">
-  <b>“Learning to code, one commit at a time.”</b>
+  <b>“Continue coding until you pass out.”</b>
 </p>
