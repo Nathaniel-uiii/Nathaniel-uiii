@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89691712454",
+    "project_id": "palco-bread-89b17",
+    "storage_bucket": "palco-bread-89b17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89691712454:android:fcd2f289d7e3472cc060c7",
+        "android_client_info": {
+          "package_name": "com.example.bread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbLG46W-IJv0LfXj0FrrobJnmt3FR7JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

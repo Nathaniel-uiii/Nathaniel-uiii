@@ -1,0 +1,10 @@
+0 Binangkal
+1 Pan de coco
+2 Garlic Bread
+3 Spanish Bread
+4 Toasted Siopao
+5 Pan De Leche
+6 Ensaymada
+7 Star Bread
+8 Pandesal
+9 Loaf Bread
